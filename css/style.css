@@ -389,6 +389,14 @@
   width: 50%;
 }
 
+.section-5-text {
+  font-size: 24px;
+  font-weight: 300;
+  line-height: 1.6;
+  letter-spacing: 5px;
+  color: #333;
+}
+
 @keyframes changing-colors {
   0% {
     color: #fed85f;
